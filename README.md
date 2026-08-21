@@ -19,6 +19,13 @@ externos, âncoras, imagens, elementos semânticos e formatação de texto).
 Nenhum arquivo CSS é usado — a atividade não pede estilização, apenas
 estrutura HTML semântica.
 
+## Conceitos de HTML praticados
+
+- Estrutura semântica: `header`, `nav`, `main`, `footer`, `section`, `figure`/`figcaption`
+- Formatação de texto com significado: `strong`, `em`, `mark`, `abbr`, `blockquote`, `cite`, `sup`
+- Links internos, externos e âncoras (`href="#id"`)
+- Imagens com `alt` descritivo e mapa incorporado via `iframe`
+
 ## Site publicado
 
 https://caua0723.github.io/meu-site-pessoal/
