@@ -21,7 +21,7 @@ estrutura HTML semântica.
 
 ## Site publicado
 
-[Adicione aqui o link do GitHub Pages depois de publicar]
+https://caua0723.github.io/meu-site-pessoal/
 
 ## Autor
 
