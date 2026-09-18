@@ -1,12 +1,11 @@
 # Meu Site Pessoal
 
-Site pessoal desenvolvido para a atividade "Praticando: Meu Site Pessoal" da
-disciplina de Desenvolvimento Web 1 (DWE1), Bacharelado em Sistemas de
-Informação — IFSP Campus Votuporanga.
+Site pessoal desenvolvido para a disciplina de Desenvolvimento Web 1 (DWE1),
+Bacharelado em Sistemas de Informação — IFSP Campus Votuporanga.
 
-Construído em **HTML5 semântico puro**, sem CSS e sem frameworks, seguindo
-exatamente os conceitos vistos em aula até o momento (links internos e
-externos, âncoras, imagens, elementos semânticos e formatação de texto).
+HTML5 semântico + CSS externo (sem frameworks), aplicando os conceitos
+vistos em aula: elementos semânticos, formatação de texto, display, cores,
+especificidade, bordas, margens/padding e comentários.
 
 ## Páginas
 
@@ -14,10 +13,7 @@ externos, âncoras, imagens, elementos semânticos e formatação de texto).
 - `paginas/cidade.html` — Minha cidade
 - `paginas/sonho.html` — Um sonho
 - `paginas/inspiracao.html` — Alguém que me inspira
-- `paginas/tematica.html` — Meus Hobbies (página temática)
-
-Nenhum arquivo CSS é usado — a atividade não pede estilização, apenas
-estrutura HTML semântica.
+- `paginas/tematica.html` — Meus Hobbies
 
 ## Conceitos de HTML praticados
 
@@ -25,6 +21,12 @@ estrutura HTML semântica.
 - Formatação de texto com significado: `strong`, `em`, `mark`, `abbr`, `blockquote`, `cite`, `sup`
 - Links internos, externos e âncoras (`href="#id"`)
 - Imagens com `alt` descritivo e mapa incorporado via `iframe`
+
+## Estilo
+
+- Paleta: azul-marinho (`#1b1f3b`), branco-gelo (`#f4f4f9`), cinza-escuro (`#22223b`) e laranja de destaque (`#ff6b35`)
+- Fonte: Poppins (Google Fonts)
+- 1 folha compartilhada (`css/geral.css`) + 5 folhas específicas por página
 
 ## Site publicado
 
